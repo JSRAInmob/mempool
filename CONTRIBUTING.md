@@ -10,7 +10,7 @@ Also, please GPG-sign all your commits (`git config commit.gpgsign true`).
 
 # Contributor License Agreement
 
-Last Updated: January 25, 2022
+Last Updated: January 25, 2025
 
 By accepting this Agreement, You agree to the following terms and conditions for Your present and future Contributions submitted to Mempool. Except for the license granted herein to Mempool and recipients of software distributed by Mempool, You reserve all right, title, and interest in and to Your Contributions.
 
